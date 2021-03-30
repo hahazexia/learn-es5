@@ -8,3 +8,4 @@
 - [运算符](doc/2.operators.md)
 - [语法专题](doc/3.features.md)
 - [标准库](doc/4.stdlib.md)
+- [面向对象](doc/5.oop.md)
